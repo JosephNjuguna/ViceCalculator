@@ -8,15 +8,19 @@ Want to test the app..?
         git clone https://github.com/JosephNjuguna/ViceCalculator.git
 
 
-- ### First Run :
-        run   **``npm install`` to install npm depedencies: 
-        mocha.
+- ### After clonning the app Run :
+        run  the following command :
+                npm install
+        to install assertion library : 
+                mocha.
 
-- ### then to  Run the Application :
-      node app.js 
+- ### then to  Run the actual Application :
+        use :
+                node app.js.
 
 # Test Application :
-        npm start
+        npm test
+
 # Author
 Joseph Njuguna
 
